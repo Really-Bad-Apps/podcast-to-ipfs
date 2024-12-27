@@ -67,3 +67,6 @@ target/
 bin/
 
 pyvenv.cfg
+
+# ignore local dev scripts
+*.sh
